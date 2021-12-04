@@ -10,7 +10,7 @@
     "react-dom": "16.14.0",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://yourgithubname.github.io/your-app-name",
+  "homepage": "https://CarolinaInglethe.github.io/ci-project-movie-cards-library-stateful",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
