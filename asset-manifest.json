@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/your-app-name/static/css/main.5d58c8a2.chunk.css",
-    "main.js": "/your-app-name/static/js/main.f75c71ba.chunk.js",
-    "main.js.map": "/your-app-name/static/js/main.f75c71ba.chunk.js.map",
-    "runtime-main.js": "/your-app-name/static/js/runtime-main.9913358c.js",
-    "runtime-main.js.map": "/your-app-name/static/js/runtime-main.9913358c.js.map",
-    "static/js/2.17aeab05.chunk.js": "/your-app-name/static/js/2.17aeab05.chunk.js",
-    "static/js/2.17aeab05.chunk.js.map": "/your-app-name/static/js/2.17aeab05.chunk.js.map",
-    "index.html": "/your-app-name/index.html",
-    "precache-manifest.5dd412c7bb6b7bc47a340bde2e80fddd.js": "/your-app-name/precache-manifest.5dd412c7bb6b7bc47a340bde2e80fddd.js",
-    "service-worker.js": "/your-app-name/service-worker.js",
-    "static/css/main.5d58c8a2.chunk.css.map": "/your-app-name/static/css/main.5d58c8a2.chunk.css.map",
-    "static/js/2.17aeab05.chunk.js.LICENSE.txt": "/your-app-name/static/js/2.17aeab05.chunk.js.LICENSE.txt"
+    "main.css": "/ci-project-movie-cards-library-stateful/static/css/main.5d58c8a2.chunk.css",
+    "main.js": "/ci-project-movie-cards-library-stateful/static/js/main.2488bf07.chunk.js",
+    "main.js.map": "/ci-project-movie-cards-library-stateful/static/js/main.2488bf07.chunk.js.map",
+    "runtime-main.js": "/ci-project-movie-cards-library-stateful/static/js/runtime-main.76f6d1a9.js",
+    "runtime-main.js.map": "/ci-project-movie-cards-library-stateful/static/js/runtime-main.76f6d1a9.js.map",
+    "static/js/2.17aeab05.chunk.js": "/ci-project-movie-cards-library-stateful/static/js/2.17aeab05.chunk.js",
+    "static/js/2.17aeab05.chunk.js.map": "/ci-project-movie-cards-library-stateful/static/js/2.17aeab05.chunk.js.map",
+    "index.html": "/ci-project-movie-cards-library-stateful/index.html",
+    "precache-manifest.00ff40976bbdffb8fe28e49fc52267c8.js": "/ci-project-movie-cards-library-stateful/precache-manifest.00ff40976bbdffb8fe28e49fc52267c8.js",
+    "service-worker.js": "/ci-project-movie-cards-library-stateful/service-worker.js",
+    "static/css/main.5d58c8a2.chunk.css.map": "/ci-project-movie-cards-library-stateful/static/css/main.5d58c8a2.chunk.css.map",
+    "static/js/2.17aeab05.chunk.js.LICENSE.txt": "/ci-project-movie-cards-library-stateful/static/js/2.17aeab05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9913358c.js",
+    "static/js/runtime-main.76f6d1a9.js",
     "static/js/2.17aeab05.chunk.js",
     "static/css/main.5d58c8a2.chunk.css",
-    "static/js/main.f75c71ba.chunk.js"
+    "static/js/main.2488bf07.chunk.js"
   ]
 }
